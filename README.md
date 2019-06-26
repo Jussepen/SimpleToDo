@@ -12,4 +12,7 @@ The following **required** functionality is completed:
 
 Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+This is test repo and we want to add an image here
+
+![] (https://github.com/Jussepen/SimpleToDo/raw/master/Screenshot_1561516702.png)
+
