@@ -9,6 +9,7 @@ Simple to do app
 The following **required** functionality is completed:
 * [ x ] User can **view a list of todo items**
 * [ x ] User can **successfully add and remove items** from the todo list
+* [ x ] User's **list of items persisted** upon modification and and retrieved properly on app restart
 
 Video Walkthrough
 
@@ -19,3 +20,4 @@ This is test repo and we want to add an image here
 This is a video of the app 
 
 <img src = 'walkthrough.gif' title = ' video walkthrough' width= '' alt = 'video walkthrough' />
+
