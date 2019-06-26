@@ -16,3 +16,6 @@ This is test repo and we want to add an image here
 
 ![] (https://github.com/Jussepen/SimpleToDo/raw/master/Screenshot_1561516702.png)
 
+This is a video of the app 
+
+<img src = 'walkthrough.gif' title = ' video walkthrough' width= '' alt = 'video walkthrough' />
