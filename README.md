@@ -19,5 +19,5 @@ This is test repo and we want to add an image here
 
 This is a video of the app 
 
-<img src = 'walkthrough.gif' title = ' video walkthrough' width= '' alt = 'video walkthrough' />
+<img src = 'walkthrough2.gif' title = ' video walkthrough' width= '' alt = 'video walkthrough' />
 
